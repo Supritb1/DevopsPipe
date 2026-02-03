@@ -16,7 +16,6 @@ public class TestGreeter {
   public void setup() {
     greeter = new Greeter();
   }
-  //suprit
 
   @Test
   public void greetShouldIncludeTheOneBeingGreeted() {
